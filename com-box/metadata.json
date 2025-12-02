@@ -1,0 +1,11 @@
+{
+  "nombre": "COM-Box",
+  "nombre_original": "COM-Box",
+  "sistema": "Acorn Atom",
+  "year": "1980",
+  "genres": [
+    "Unknown"
+  ],
+  "publisher": "Unknown",
+  "tiene_review": false
+}
