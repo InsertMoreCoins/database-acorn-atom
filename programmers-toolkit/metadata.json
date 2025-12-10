@@ -7,5 +7,7 @@
     "Unknown"
   ],
   "publisher": "Unknown",
+  "aiDescription": "El 'Programmer's Toolkit' para el Acorn Atom, lanzado en 1980, no era un videojuego, sino una suite indispensable de herramientas para los entusiastas de la programación. Su 'bucle de juego' invitaba a los usuarios a sumergirse en el código máquina, ofreciendo un ensamblador, un desensamblador y un monitor. La mecánica consistía en escribir programas en lenguaje ensamblador 6502, depurarlos byte a byte y desentrañar los secretos del hardware. Fue un campo de pruebas interactivo para la creatividad computacional de la época. Este conjunto de utilidades fue fundamental para la comunidad del Acorn Atom. Permitió a una generación de programadores explorar y expandir las capacidades de sus máquinas, sentando las bases para el desarrollo de software más complejo. Su legado reside en democratizar el acceso a la programación de bajo nivel, inspirando a futuros desarrolladores. Una pieza clave en el museo de la computación temprana.",
+  "aiHints": "¿Sabías que el 'Programmer's Toolkit' fue esencial para que muchos desarrolladores crearan los primeros juegos y aplicaciones para el Acorn Atom, sirviendo como la base para explorar los límites de su procesador 6502? Un truco profesional era dominar el monitor de código máquina para depurar programas byte a byte, una habilidad crucial para optimizar el rendimiento en una máquina con recursos tan limitados. ¡Entender su funcionamiento era como tener la llave maestra del sistema!",
   "tiene_review": false
 }

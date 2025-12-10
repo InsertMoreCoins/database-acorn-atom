@@ -7,5 +7,7 @@
     "Unknown"
   ],
   "publisher": "Unknown",
+  "aiDescription": "El \"Atom Extension ROM AXR1\" para el Acorn Atom no era un juego, sino una extensión vital que transformó el lienzo creativo de los programadores. Al cargarse, el AtomBASIC se enriquecía con nuevos comandos y rutinas de máquina, ofreciendo un control avanzado sobre gráficos, sonido y periféricos. Para el entusiasta, el \"juego\" residía en dominar estas herramientas para dar vida a creaciones propias, desde animaciones complejas hasta juegos personalizados, superando las limitaciones originales del sistema.Su legado es el de un catalizador para la innovación en el Acorn Atom. En una era de hardware limitado, las extensiones ROM como AXR1 eran cruciales para maximizar el potencial de la máquina. Facilitó la creación de software más ambicioso y pulido, fomentando una comunidad de desarrollo vibrante. Es un testimonio de la ingeniosidad de los programadores de los 80, expandiendo las fronteras de lo posible con los recursos disponibles y sentando bases para la computación doméstica.",
+  "aiHints": "¿Sabías que el AXR1, como otras ROM de extensión para el Acorn Atom, no se instalaba mediante software, sino insertando físicamente un chip en una ranura de la placa base? Esto requería abrir la carcasa de la computadora. ¡Era una verdadera \"expansión plug-and-play\" de los años 80! Estas ROM eran esenciales para liberar el verdadero poder gráfico y sonoro del Atom, permitiendo a los programadores ir mucho más allá del BASIC estándar.",
   "tiene_review": false
 }
